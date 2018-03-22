@@ -6,6 +6,6 @@
 
 ![Image text](https://github.com/lucky163m/ball/blob/master/750.png)
 
-![Image text](https://github.com/lucky163m/ball/blob/master/img1.png)
+![Image text](https://github.com/lucky163m/ball/blob/master/img1.PNG)
 
-![Image text](https://github.com/lucky163m/ball/blob/master/img2.png)
+![Image text](https://github.com/lucky163m/ball/blob/master/img2.PNG)
